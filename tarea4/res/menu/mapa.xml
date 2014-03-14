@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+	    
+	    android:checkable="true"
+        android:id="@+id/action_mapa_normal"
+        android:showAsAction="always"        
+        android:title="@string/mapa_normal"/>
+	
+	<item
+	    android:checkable="true"
+        android:id="@+id/action_mapa_satelite"
+        android:showAsAction="always"        
+        android:title="@string/mapa_satelite"/>
+	<item
+	    android:checkable="true"
+        android:id="@+id/action_mapa_terreno"
+        android:showAsAction="always"        
+        android:title="@string/mapa_terreno"/>
+	<item
+	    android:checkable="true"
+        android:id="@+id/action_mapa_hibirido"
+        android:showAsAction="always"        
+        android:title="@string/mapa_hibrido"/>
+
+</menu>

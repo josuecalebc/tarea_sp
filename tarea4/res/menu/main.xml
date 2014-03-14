@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_imagen"
+        android:showAsAction="always"
+        
+        android:title="@string/action_imagen"/>
+        
+</menu>
